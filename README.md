@@ -5,7 +5,7 @@
 * Para fazer o deploy e interação com o contrato, você pode utilizar A IDE Remix: https://remix.ethereum.org 
 
 ## Criptografia e Descriptografia
-* O código pode ser executado com o arquivo 'Criptografia_e_Descriptografia.ipynb'.
+* O código pode ser executado com o arquivo `Criptografia_e_Descriptografia.ipynb`.
 
 ## Enviando Hash via TCP Socket
 ### Instruções
