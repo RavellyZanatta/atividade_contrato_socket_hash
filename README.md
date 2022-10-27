@@ -1,7 +1,7 @@
 # Atividade sobre contrato e sockets com hash
 
 ## Ravelly coin
-* O arquivo `ravelly.sol` é o contrato em solidity para a criação da moeda.
+* O arquivo `ravecoin_ico.sol` é o contrato em solidity para a criação da moeda.
 * Para fazer o deploy e interação com o contrato, você pode utilizar A IDE Remix: https://remix.ethereum.org 
 
 ## Criptografia e Descriptografia
