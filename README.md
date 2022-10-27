@@ -1,0 +1,1 @@
+# atividade_contrato_socket_hash
