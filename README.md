@@ -25,4 +25,7 @@ python server.py
 
 python client.py
 ```
+## Resultado da Execução
 O cliente calcula o hash e envia para o servidor.
+
+![alt text](https://github.com/RavellyZanatta/atividade_contrato_socket_hash/blob/main/hashs.png?raw=true)
